@@ -3,6 +3,7 @@
 ### Designing Self-organized network protocols with Multi-Agent ML
 
 **Topics: Reinforcement Learning, Multi-Agent Systems, Control Theory**
+
 **Author: Ishan Saha, Advisor: Radhika Nagpal**
 
 Pre-print Link: https://drive.google.com/file/d/1k3JXsoVp18oMq0Sxz0faZXx8USqqeaLk/view
